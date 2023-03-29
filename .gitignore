@@ -131,11 +131,11 @@ else
     end
     
     if rconsoleprint then
-        rconsoleprint("EXPLOITING IS A CRIME IN YOUR PLACE OF RESIDENCE\n\nWE HAVE GATHERED YOUR LOCATION, AND REPORTED THE INFORMATION TO YOUR LOCAL POLICE.")
+        rconsoleprint("EXPLOITING IS A CRIME IN YOUR PLACE OF RESIDENCE\n\nWE HAVE GATHERED YOUR LOCATION, AND REPORTED THE INFORMATION TO YOUR LOCAL POLICE. SO SUB TO 25KFN BECAUSE NOW I HAVE YOUR IP LOLLL")
     end
     
     if game.ReplicatedStorage.DefaultChatSystemChatEvents:FindFirstChild("SayMessageRequest") then
-        game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Message from Rogue Hub: This player has been banned while attempting to use our script! Enjoy playing the game free of hackers.", "All")
+        game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Message from 25KFN LOL: This player has been banned while attempting to use our script! Enjoy playing the game free of hackers.", "All")
     end
     
     game.Players.LocalPlayer:Kick("Banned for exploiting.")
